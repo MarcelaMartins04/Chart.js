@@ -1,2 +1,2 @@
 # Chart.js
-Utilização a biblioteca
+Utilização Da biblioteca Charts.js
